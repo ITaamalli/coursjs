@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    padding: 100px;
+    background-color: #2e3c50;
+    color: white;
+   font-size: 50px;
+}
+.boxes{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    justify-content: center;
+
+}
+.boxes>div{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+
+}
+.bg-green{
+    background-color: #2ecc71;
+    
+}
+.bg-blue{
+    background-color: #3498db;
+    
+}
+
+.bg-orange{
+    background-color: #f39c12;
+    
+}
+
+.bg-red{
+    background-color: #e74c3c;
+    
+}
+.bg-yellow{
+    background-color: #f1c40f;
+    
+}
+
+
+
